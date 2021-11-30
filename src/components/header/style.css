@@ -1,0 +1,21 @@
+.container {
+  width: 100%;
+  background: #df0c0c;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  margin: 0 8px;
+  color: #fff;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover{
+  color: #000;
+}
